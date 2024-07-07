@@ -6,8 +6,7 @@ Este bot do Telegram busca promoções de jogos usando a API do CheapShark.
 
 1. Clone o repositório.
 2. Instale as dependências com `pip install -r requirements.txt`.
-3. Configure seu token do Telegram em `config.py`.
-4. Execute o bot com `python bot.py`.
+3. Execute o bot com `python bot.py`.
 
 ## Comandos Disponíveis
 
